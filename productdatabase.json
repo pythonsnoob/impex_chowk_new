@@ -1,0 +1,24 @@
+{
+  "khizar.quraishi": {
+    "vape2078": {
+      "product_name": "vape",
+      "product_price": 50,
+      "product_quality": "medium",
+      "product_quantity": 120
+    },
+    "basketball6579": {
+      "product_name": "basketball",
+      "product_price": 90,
+      "product_quality": "high",
+      "product_quantity": 46
+    }
+  },
+  "dania.haroon": {
+    "jumping jacks2196": {
+      "product_name": "jumping jacks",
+      "product_price": 25,
+      "product_quality": "high",
+      "product_quantity": 16
+    }
+  }
+}
