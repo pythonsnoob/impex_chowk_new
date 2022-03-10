@@ -1,1 +1,0 @@
-print ('Adding the buyer sign up process')
