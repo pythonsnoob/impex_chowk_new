@@ -81,3 +81,4 @@ if __name__ == '__main__':
         signup(name=username, email=user_email, password=userpass, user_database=userdatabase)
         with open("userdatabase.json", "w") as database_for_users:
             json.dump(userdatabase, database_for_users)
+
